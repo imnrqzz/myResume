@@ -243,6 +243,20 @@ a:hover {
   border-radius: 50%;
 }
 
+/* ref section */
+.ref_item {
+  margin-top: 1.5rem;
+}
+.ref_item:first-child {
+  margin-top: 0;
+}
+.ref_name {
+  font-size: 1.65rem;
+  font-weight: 700;
+  color: var(--heading);
+  margin-bottom: 0.3rem;
+}
+
 /* education */
 .edu_item {
   margin-top: 1.8rem;
