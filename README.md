@@ -3,7 +3,7 @@
 Source of my single-page HTML resume.
 
 **Stack:** HTML, CSS
-**Live:** https://markanthonyenriquez.netlify.app/
+**Live:** https://mrkenr-resumev1.vercel.app/
 
 ## Sections
 
