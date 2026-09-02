@@ -225,3 +225,24 @@ hr {
   border: none;
   border-top: 1px solid #e8eaed;
 }
+
+@media print {
+  body {
+    background: #fff;
+    font-size: 11pt;
+  }
+  .container {
+    box-shadow: none;
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    max-width: 100%;
+  }
+  a {
+    color: var(--heading-color);
+  }
+  .social_items, .social_item svg, .interest_items svg {
+    display: none;
+  }
+}
+
