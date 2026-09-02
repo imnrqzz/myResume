@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
 
 * {
   padding: 0;
@@ -8,9 +8,9 @@
 :root {
   --primary: #1a3a5c;
   --primary-light: #2b6cb0;
-  --accent: #c8a25c;
+  --accent: #8a6a24;
   --text: #4a5568;
-  --text-light: #a0aec0;
+  --text-light: #5f6b7a;
   --heading: #1a202c;
   --bg: #edf2f7;
   --card-bg: #ffffff;
@@ -21,7 +21,7 @@ html {
   font-size: 10px;
 }
 body {
-  font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: Manrope, -apple-system, BlinkMacSystemFont, sans-serif;
   background-color: var(--bg);
   color: var(--heading);
   line-height: 1.7;
